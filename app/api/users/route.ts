@@ -9,7 +9,7 @@ const records = [
     brand: "Samsung",
     price: 69999,
     stock: 25,
-    image: "/images/samsungPhone.jpg",
+    image: "/images/samsungPhone.webp",
     description: "A premium smartphone with an exceptional camera, powerful performance, and a sleek design."
   },
   {
@@ -19,7 +19,7 @@ const records = [
     brand: "Apple",
     price: 92999,
     stock: 15,
-    image: "/images/appleLaptop.jpg",
+    image: "/images/appleLaptop.webp",
     description: "Lightweight and fast, this laptop is powered by the M1 chip, offering seamless performance."
   },
   {
@@ -29,7 +29,7 @@ const records = [
     brand: "Sony",
     price: 24999,
     stock: 30,
-    image: "/images/sonyHeadphone.jpg",
+    image: "/images/sonyHeadphone.webp",
     description: "Industry-leading noise-canceling headphones with superior sound quality and a comfortable fit."
   },
   {
@@ -39,7 +39,7 @@ const records = [
     brand: "Dell",
     price: 55999,
     stock: 20,
-    image: "/images/dellLaptop.jpg",
+    image: "/images/dellLaptop.webp",
     description: "A reliable laptop with a vibrant display and excellent performance."
   },
   {
@@ -49,7 +49,7 @@ const records = [
     brand: "LG",
     price: 49999,
     stock: 10,
-    image: "/images/lgTvimg.jpg",
+    image: "/images/lgTvimg.webp",
     description: "A 55-inch 4K UHD Smart TV offering stunning visuals and built-in apps for seamless entertainment."
   },
   {
@@ -69,7 +69,7 @@ const records = [
     brand: "Apple",
     price: 79999,
     stock: 12,
-    image: "/images/appleTablate.jpg",
+    image: "/images/appleTablet.webp",
     description: "A high-performance tablet with a Liquid Retina display, perfect for creativity and productivity."
   },
   {
@@ -79,7 +79,7 @@ const records = [
     brand: "HP",
     price: 75999,
     stock: 10,
-    image: "/images/hp-laptop-img.jpg",
+    image: "/images/hp-laptop-img.webp",
     description: "A powerful gaming laptop with a sleek design, featuring high-end graphics and fast performance."
   },
   {
@@ -109,7 +109,7 @@ const records = [
     brand: "Logitech",
     price: 9999,
     stock: 35,
-    image: "/images/logitechMouse.jpg",
+    image: "/images/logitechMouse.webp",
     description: "A high-precision wireless mouse with ergonomic design, perfect for productivity and multitasking."
   },
   {
@@ -119,7 +119,7 @@ const records = [
     brand: "Amazon",
     price: 4499,
     stock: 50,
-    image: "/images/echoDot.jpg",
+    image: "/images/echoDot.webp",
     description: "A compact smart speaker with Alexa, perfect for controlling smart devices and entertainment."
   }
 ];
